@@ -1,3 +1,4 @@
+// Explique o que este código faz
 # Dogs - Social Network
 
 ## 🌐 Description
